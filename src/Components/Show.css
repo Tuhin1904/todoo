@@ -1,0 +1,9 @@
+.showContainer {
+  padding: 2rem;
+  padding-left: 5rem;
+  background-color: grey;
+}
+.btns{
+  display: flex;
+  margin-bottom: 1rem;
+}

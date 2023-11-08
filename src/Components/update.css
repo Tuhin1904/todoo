@@ -1,0 +1,20 @@
+.inpBox {
+  padding: 9px;
+  margin: 1rem 0.5rem;
+  border-radius: 20px;
+  border:none;
+}
+.upBtn{
+  width:6rem;
+  border-radius: 20px;
+  border:none;
+  padding:10px;
+  background-color:rgb(25, 145, 47);
+  cursor:pointer;
+}
+.upBtn:active{
+  background-color: rgb(22, 181, 51);
+}
+.upBtn:hover{
+  background-color: rgb(35, 187, 63);
+}
